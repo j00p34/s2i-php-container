@@ -3,5 +3,5 @@
  SetHandler server-status
  Order deny,allow
  Deny from all
- Allow from IP.AD.DR.ESS
+ Allow from all
 </Location>
